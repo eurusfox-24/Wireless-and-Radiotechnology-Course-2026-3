@@ -26,9 +26,6 @@ The following data was captured during the classroom scan. All detected devices 
 | `4124D92B-C104-3595...` | -92 dBm | 44.67 m | No |
 | `2AA7589C-C8AD-5B1F...` | -97 dBm | 79.43 m | Yes |
 
-### Screenshots
-*(Note: Upload your image file to the repository and ensure the filename matches below)*
-![BLE Scanner Results](WhatsApp Image 2026-01-28 at 12.59.28.jpeg)
 
 ---
 
